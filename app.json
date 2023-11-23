@@ -34,6 +34,11 @@
           "initialOrientation": "PORTRAIT"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a82bcfb5-8178-48ea-adea-66229c66f898"
+      }
+    }
   }
 }
